@@ -9,4 +9,5 @@ Credit card weekly transaction analysis dashboard using Power Bi
   4. Added Calculated Columns
   5. Created DAX Measures
   6. Dashboard creation
-  7. Insights from Analysis
+  7. Uploded the latest week data in Database to make changes in real-time to the dashbaord 
+  8. Insights from Analysis
